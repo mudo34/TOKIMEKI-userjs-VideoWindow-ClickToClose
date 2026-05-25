@@ -2,7 +2,7 @@
 // @name         TOKIMEKI VideoWindow ClickToClose
 // @namespace    https://tokimeki.blue/
 // @version      0.1.0
-// @description  Videos一覧から動画を開いたときに空欄をクリックして閉じる
+// @description  Videos一覧から動画を開いたときに空白をクリックして閉じる
 // @author       mudo34
 // @match        https://tokimeki.blue/*
 // @icon         https://www.google.com/s2/favicons?domain=tokimeki.blue
